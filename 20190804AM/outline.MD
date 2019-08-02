@@ -34,19 +34,19 @@ by zj@webturing.com
 ### 扫雷 [1509](http://acm.webturing.com/JudgeOnline/problem.php?id=1509)
 - 难度 2
 - 题目分析
-- 算法实现
+- 算法实现 O(8*N^2)
 - 知识点 ：二位数组，图的8/4连通
 
 ### 约瑟夫问题 [1051](http://acm.webturing.com/JudgeOnline/problem.php?id=1051)
 - 难度 2
 - 题目分析
-- 算法实现
+- 算法实现O(N)
 - 知识点：链表，模拟链表,list
 
 ### 括号配对 [1204](http://acm.webturing.com/JudgeOnline/problem.php?id=1204)
 - 难度 1
 - 题目分析
-- 算法实现
+- 算法实现O(N)
 - 知识点:字符串 栈实现(stack)
 
 
