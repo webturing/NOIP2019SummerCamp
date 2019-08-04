@@ -18,9 +18,6 @@ by zj@webturing.com
 - 知识点 ：枚举、素数判断 $O(sqrt(N))$ /筛法O(1)
 - 算法优化*： 素数判断优化、循环优化、筛法优化等
 
-
-
-
 ###  6174 [2503](http://acm.webturing.com/JudgeOnline/problem.php?id=2503)
 - 难度 1
 - 题目分析
@@ -67,7 +64,7 @@ by zj@webturing.com
 
 ## 习题（例题+扩展)
 
-> 上午练习：2850,1311,1035,1032,1509
+> 上午练习：[作业](https://oj.ahstu.cc/JudgeOnline/contest.php?cid=1376)
 
 
 ## 知识小贴士
