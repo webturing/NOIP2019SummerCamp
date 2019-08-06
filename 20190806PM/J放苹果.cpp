@@ -1,19 +1,22 @@
 #include <bits/stdc++.h>
+
 using namespace std;
+
 int f(int m, int n) {
-  if (m <= 1 || n <= 1) return 1;
-  if (n > m) return f(m, m);
-  return f(m, n - 1) + f(m - n, n);
+    if (m <= 1 || n <= 1) return 1;
+    if (n > m) return f(m, m);
+    return f(m, n - 1) + f(m - n, n);
 }
+
 int main() {
-  int T;
-  cin >> T;
-  while (T--) {
-    int m, n;
-    cin >> m >> n;
-    cout << f(m, n) << endl;
-  }
-  return 0;
+    int T;
+    cin >> T;
+    while (T--) {
+        int m, n;
+        cin >> m >> n;
+        cout << f(m, n) << endl;
+    }
+    return 0;
 }
 
 //设f(m,n)为m个苹果，n个盘子的放法数目，则先对n作讨论，
